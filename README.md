@@ -46,7 +46,7 @@ A dashboard apresenta indicadores operacionais e financeiros estratégicos:
 
 ### Tela de Apuração de Vendas
 
-![Apuração de Vendas Xbox](apuracao_vendas.png)
+![Apuração de Vendas Xbox](images/apuracao_vendas.png)
 
 ---
 
@@ -55,6 +55,8 @@ A dashboard apresenta indicadores operacionais e financeiros estratégicos:
 ```text
 dashboard_xbox_sales/
 │
+├── images/
+│   └── apuracao_vendas.png
+│
 ├── Dashboard de Vendas do Xbox.xlsx
-├── apuracao_vendas.png
 └── README.md
